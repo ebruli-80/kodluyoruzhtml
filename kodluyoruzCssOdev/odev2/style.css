@@ -1,0 +1,36 @@
+*{
+    text-align: center;
+
+}
+input{
+    width: 300px;
+}
+.search{
+    background-color:rgb(214, 204, 190);
+}
+.link1{
+    width: 450px;
+    height: 110px;
+    float:left;
+    background-color: rgb(138, 167, 221);
+}
+.link2{
+    width: 450px;
+    height: 110px;
+    float:left;
+    background-color: rgb(98, 160, 223);
+   
+}
+.link3{
+    background-color: rgb(102, 102, 221);
+    width: 450px;
+    height: 110px;
+    float:left;
+}
+header{
+    margin-top: 150px;
+}
+.link3 p{
+    margin: 5px;
+}
+
